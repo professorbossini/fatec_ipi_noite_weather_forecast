@@ -10,15 +10,9 @@
     <string name="hint_text">Type city name</string>
     <string name="read_error">Could not read data</string>
     <string name="connect_error">Could not connect to server</string>
-
-
-
-
-
-
-
-
-
+    <string name="measurement_unit">imperial</string>
+    <string name="desc_language">en</string>
+    <string name="new_search_started">New search started</string>
 
 
 </resources>
